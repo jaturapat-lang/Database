@@ -1,0 +1,6 @@
+{
+  "name": "SimuData Vocational ER - แบบจำลองฐานข้อมูลหลากโมเดลและระบบตรวจ ER Diagram ปวช.1",
+  "description": "ระบบจำลองการสร้างฐานข้อมูลแบบหลากหลาย (Relational, Document, Graph, Key-Value, Star Schema) พร้อมออกแบบ ER Diagram และระบบตรวจสอบความถูกต้องของความสัมพันธ์อัตโนมัติ สำหรับนักเรียน ปวช.1",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
